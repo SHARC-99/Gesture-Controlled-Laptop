@@ -22,7 +22,9 @@ The hand gestures in front of the Ultrasonic sensors can be calibrated so that t
 
 If you have installed the latest version of Python, then pip (a tool for installing packages in Python) will already be installed. To check if pip is installed or not, type the following command.
 
-pip -V
+Following commands->
+
+pip -V 
 
 You should upgrade to the latest package of pip using the following command. If pip is already in its latest version, then ignore this step.
 
@@ -40,3 +42,4 @@ python -m pip install pyautogui
 Or
 
 pip install pyautogui
+
